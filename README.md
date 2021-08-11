@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexideavila
-- 👀 I’m interested in Atomic physics
+- 👀 I’m interested in Atomic and Plasma physics
 - 🌱 I’m currently learning C/C++ and Python
 - 💞️ I’m looking to collaborate on Physics problems
 - 📫 How to reach me deavilac.alexis997@csu.fullerton.edu
